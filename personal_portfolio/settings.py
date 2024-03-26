@@ -43,6 +43,8 @@ ALLOWED_HOSTS = [
     'localhost:8000',
     '127.0.0.1:8000',
     'django-projects-maux.onrender.com',
+    'www.benpavey.com',
+    'benpavey.com',
     ]
 
 # Application definition

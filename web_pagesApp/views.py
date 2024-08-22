@@ -7,8 +7,7 @@ from django.shortcuts import render
 def home(request):
     return render(request, "web_pagesApp/home.html", {})
 
-def newhome(request):
-    return render(request, "web_pagesApp/newhome.html", {})
+
 
 '''
 

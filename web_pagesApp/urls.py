@@ -5,7 +5,7 @@ from web_pagesApp import views
 
 urlpatterns = [
     path("", views.home, name='home'),
-    path("newhome", views.newhome, name='newhome'),
+
 
     # portfolio urls paths from RealPython
     # path("", views.project_index, name="project_index"),
